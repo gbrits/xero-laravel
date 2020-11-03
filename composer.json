@@ -13,7 +13,7 @@
     "require": {
         "php":">=7.1",
         "laravel/framework": "^5.1||^6.0||^7.0",
-        "calcinai/xero-php": "^2.0"
+        "calcinai/xero-php": "dev-dev-bugfix"
     },
     "autoload": {
         "psr-4": {
